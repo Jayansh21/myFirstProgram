@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    
+
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+
+}
+
+li{
+    text-decoration: none;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+
+}
+
+section div{
+    width: 200px;
+    height: 200px;
+    background: #b916165e;
+}
